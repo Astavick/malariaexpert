@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/malariaexpert/static/css/main.b84cca45.css",
+    "main.js": "/malariaexpert/static/js/main.0fac2aa2.js",
+    "index.html": "/malariaexpert/index.html",
+    "main.b84cca45.css.map": "/malariaexpert/static/css/main.b84cca45.css.map",
+    "main.0fac2aa2.js.map": "/malariaexpert/static/js/main.0fac2aa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b84cca45.css",
+    "static/js/main.0fac2aa2.js"
+  ]
+}
